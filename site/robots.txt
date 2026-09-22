@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://henriquecof.github.io/cronos-edital-privacy/sitemap.xml

@@ -1,0 +1,62 @@
+POLÍTICA DE PRIVACIDADE — CRONOS EDITAL
+Aplicativo: Cronos Edital
+Identificador: com.cronosedital.app
+Versão: 1.0
+Última atualização: 22 de setembro de 2026
+
+1. ESCOPO E RESPONSÁVEL
+Esta Política de Privacidade se aplica ao aplicativo Cronos Edital e às páginas públicas diretamente relacionadas a ele. O Cronos Edital é responsável pelos tratamentos realizados diretamente pelo aplicativo. Serviços de terceiros, como Google AdMob, Google User Messaging Platform, Google Play e GitHub Pages, tratam dados conforme suas próprias políticas, contratos e responsabilidades legais.
+
+Na configuração atual, o aplicativo prioriza funcionamento local e não exige a criação de uma conta própria do Cronos Edital para armazenar os dados de estudo no dispositivo.
+
+2. INFORMAÇÕES QUE PODEM SER TRATADAS
+- Dados fornecidos pelo usuário: informações de organização de concursos, editais, estudos, questões, flashcards, sessões, anotações e outros conteúdos inseridos ou importados pelo próprio usuário.
+- Dados técnicos: versão do aplicativo, sistema operacional, plataforma, informações técnicas do dispositivo e identificadores técnicos quando necessários para compatibilidade, diagnóstico e segurança.
+- Dados de rede: endereço IP e metadados técnicos normalmente transmitidos ao acessar catálogos remotos, links externos, serviços de publicidade, lojas de aplicativos ou outros serviços online.
+- Publicidade e consentimento: sinais de consentimento e preferências de privacidade gerenciados pela Google UMP, além de dados que Google Mobile Ads/AdMob pode tratar, como identificadores de publicidade, endereço IP, características do dispositivo, diagnósticos e interações com anúncios.
+- Compras e assinaturas: quando recursos Premium forem disponibilizados, a loja poderá fornecer produto adquirido, estado da compra/assinatura e identificadores de transação necessários à liberação do recurso. O Cronos Edital não recebe dados completos do cartão de pagamento.
+
+3. ARMAZENAMENTO LOCAL
+Dados de estudo e configuração são mantidos localmente no dispositivo por padrão e podem ser removidos pelo usuário, pelo aplicativo, pelo sistema operacional ou pela desinstalação/limpeza dos dados, observadas as regras de backup da plataforma quando aplicáveis.
+
+4. PUBLICIDADE, GOOGLE ADMOB E UMP
+Usuários Free podem visualizar anúncios fornecidos pelo Google AdMob / Google Mobile Ads. Antes de solicitar anúncios, o aplicativo usa a Google User Messaging Platform (UMP) para consultar o estado de consentimento e, quando exigido, apresentar mensagem de privacidade. O Cronos Edital bloqueia solicitações enquanto o SDK informar que anúncios ainda não podem ser requisitados. Quando aplicável, a opção “Privacidade dos anúncios” permite rever escolhas.
+
+Google Privacy Policy: https://policies.google.com/privacy
+Google Ads: https://policies.google.com/technologies/ads
+
+5. PREMIUM E PAGAMENTOS
+O Cronos Edital pode oferecer modalidade Premium sem anúncios e com limites ampliados. Quando compras ou assinaturas forem habilitadas, o processamento financeiro será feito pela loja aplicável, como Google Play. O aplicativo recebe apenas informações necessárias para confirmar, restaurar, renovar, cancelar ou expirar o direito Premium.
+
+6. FINALIDADES
+Os dados podem ser tratados para fornecer e manter funcionalidades; salvar conteúdo e preferências; importar ou consultar conteúdo solicitado; manter compatibilidade, integridade e segurança; prevenir abuso; gerenciar consentimento e anúncios; gerenciar direitos Premium; diagnosticar erros; melhorar estabilidade e desempenho; e cumprir obrigações legais.
+
+7. BASES LEGAIS
+Quando aplicável, o tratamento poderá se apoiar nas bases previstas na LGPD e, para pessoas abrangidas pelo GDPR, nas bases correspondentes do regulamento europeu.
+
+8. COMPARTILHAMENTO E TERCEIROS
+O Cronos Edital não vende dados pessoais. Dados podem ser tratados por Google AdMob/Google Mobile Ads, Google UMP, Google Play ou outra loja, provedores de conteúdo/infraestrutura e GitHub Pages.
+
+9. TRANSFERÊNCIAS INTERNACIONAIS
+Fornecedores globais, como Google e GitHub, podem processar dados em outros países conforme suas salvaguardas, contratos e leis aplicáveis.
+
+10. RETENÇÃO E EXCLUSÃO
+Dados armazenados exclusivamente no dispositivo permanecem pelo tempo necessário ao uso e podem ser excluídos por recursos do app, limpeza dos dados ou desinstalação. Dados tratados por terceiros seguem retenção e controles definidos pelos respectivos provedores.
+
+11. DIREITOS DE PRIVACIDADE
+Conforme a legislação aplicável, o usuário pode ter direitos de confirmação, acesso, correção, portabilidade, eliminação, informação sobre compartilhamento, oposição, limitação e revogação de consentimento.
+
+12. SEGURANÇA
+São adotadas medidas técnicas e organizacionais compatíveis com a natureza do aplicativo, incluindo isolamento do sistema operacional, validações de integridade e conexões seguras para serviços remotos quando disponíveis.
+
+13. CRIANÇAS E ADOLESCENTES
+O Cronos Edital não é direcionado especificamente a crianças. Recomenda-se acompanhamento de responsável legal para menores, especialmente em funcionalidades com publicidade, compras ou serviços externos.
+
+14. SERVIÇOS E LINKS EXTERNOS
+O aplicativo pode abrir páginas, documentos ou serviços de terceiros. O tratamento após o acesso é regido pelas políticas próprias de cada fornecedor.
+
+15. ALTERAÇÕES
+Esta política poderá ser atualizada para refletir mudanças no aplicativo, serviços de terceiros ou legislação.
+
+16. CONTATO
+Para questões de privacidade, utilize o canal de suporte indicado na ficha oficial do Cronos Edital na loja de aplicativos ou nos canais oficiais do projeto.
